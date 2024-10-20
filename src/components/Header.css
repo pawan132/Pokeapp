@@ -1,0 +1,26 @@
+.header {
+    margin: 0; /* Ensure no margin is applied to the header */
+    padding: 10px; /* Optional: Add padding for content inside the header */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: min-content;
+    /* padding: 10px 20px; */
+    background-color: #f4f4f4;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .title {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .searchBox {
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  
